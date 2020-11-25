@@ -1,0 +1,1 @@
+To run the code, open the notebook in online or locally and run all cells. The notebook will download the needed dataset automatically.
